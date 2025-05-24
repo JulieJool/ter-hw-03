@@ -16,6 +16,8 @@
 
 ![1](https://github.com/JulieJool/ter-hw-03/blob/main/img/1.png)      
 ![2](https://github.com/JulieJool/ter-hw-03/blob/main/img/2.png)      
+
+Теперь картинка зашифрована:       
 ![3](https://github.com/JulieJool/ter-hw-03/blob/main/img/3.png)      
 
 
