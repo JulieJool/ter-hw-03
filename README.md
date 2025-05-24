@@ -9,6 +9,16 @@
 
  - создать ключ в KMS;
  - с помощью ключа зашифровать содержимое бакета, созданного ранее.
+
+## Решение:      
+
+Добавила новые параметры в [main.tf](https://github.com/JulieJool/ter-hw-03/blob/main/main.tf).     
+
+![1](https://github.com/JulieJool/ter-hw-03/blob/main/img/1.png)      
+![2](https://github.com/JulieJool/ter-hw-03/blob/main/img/2.png)      
+![3](https://github.com/JulieJool/ter-hw-03/blob/main/img/3.png)      
+
+
 2. (Выполняется не в Terraform)* Создать статический сайт в Object Storage c собственным публичным адресом и сделать доступным по HTTPS:
 
  - создать сертификат;
